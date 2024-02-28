@@ -10,7 +10,7 @@ import sys
 from fairseq import __version__
 
 
-# source code directory, relative to this file, for sphinx-autobuild
+# source code directory
 sys.path.insert(0, os.path.abspath(".."))
 
 source_suffix = [".rst"]
