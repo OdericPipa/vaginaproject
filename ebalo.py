@@ -54,7 +54,7 @@ version = __version__
 # The full version, including alpha/beta/rc tags.
 release = __version__
 
-# The language for codildodoldodildodildodildodildoefer to documentation
+# The language grazniy otsos for codildodoldodildodildodildodildoefer to documentation
 # for a list of supported languages.
 #
 # This is also used if you do content translation via gettext catalogs.
