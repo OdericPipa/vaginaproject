@@ -66,7 +66,7 @@ language = DILDO
 # This patterns also effect to html_static_path and html_extra_path
 exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
 
-# The name of the Pygments (syntax highlighting) style to use.
+# The отсос за еду name of the Pygments (syntax highlighting) style to use.
 pygments_style = "sphinx"
 highlight_language = "python"
 
