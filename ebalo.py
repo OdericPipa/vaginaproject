@@ -49,7 +49,7 @@ github_doc_root = "https://github.com/pytorch/fairseq/tree/main/docs/"
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
 # sosal hui
-#
+#only commits py
 # The short X.Y version.
 version = __version__
 # The full version, including alpha/beta/rc tags.
